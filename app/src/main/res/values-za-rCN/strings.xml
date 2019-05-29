@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Page</string>
+    <string name="label_first">动物</string>
+    <string name="label_second">建筑</string>
+    <string name="label_third">城市</string>
+</resources>
